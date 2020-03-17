@@ -1,0 +1,12 @@
+	//java 입출력 스트림 으로 이뤄진다 
+		// 문자 스트림 방식                          vs         바이트 스트림 방식
+		//FileReader, FileWriter   FileInputStream,FileOutputStream
+		//--> 버처를 사용 하지 않는 코드
+		//BufferedReader,BufferedWriter   BufferInput~  BufferOutput~
+		// 버퍼  파일에 직접 접근 불가 
+		//추가) 객체를 저장 하는 경우  객체 타입 저장 경우 이떄는 직렬화 기술 활용
+		// 구조
+		//jvm 2 (생략 가능)    1   hdd
+		//
+		//
+		//

@@ -1,0 +1,434 @@
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>ıURèóıAıqıc</title>
+<link rel="stylesheet" href="http://www.human.or.kr/theme/basic/css/default.css?ver=171222&ver2=114014">
+<!--[if lte IE 8]>
+<script src="http://www.human.or.kr/js/html5.js"></script>
+<![endif]-->
+<script>
+// ıÛ¿ªı•1ÀÃıÉıL ı—ıœı/ı— ışıíBııÔ ıQı5
+var g5_url       = "http://www.human.or.kr";
+var g5_bbs_url   = "http://www.human.or.kr/bbs";
+var g5_is_member = "";
+var g5_is_admin  = "";
+var g5_is_mobile = "";
+var g5_bo_table  = "";
+var g5_sca       = "";
+var g5_editor    = "";
+var g5_cookie_domain = "";
+</script>
+<script src="http://www.human.or.kr/js/jquery-1.8.3.min.js"></script>
+<script src="http://www.human.or.kr/js/jquery.menu.js?ver=171222"></script>
+<script src="http://www.human.or.kr/js/common.js?ver=171222"></script>
+<script src="http://www.human.or.kr/js/wrest.js?ver=171222"></script>
+<script src="http://www.human.or.kr/js/placeholders.min.js"></script>
+<link rel="stylesheet" href="http://www.human.or.kr/js/font-awesome/css/font-awesome.min.css">
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+KR:100,300,400,500,700,900" rel="stylesheet">
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{
+	if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)
+}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '602542120210903');
+fbq('track', 'PageView');
+</script>
+<noscript>
+	<img height="1" width="1" src="https://www.facebook.com/tr?id=602542120210903&ev=PageView&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code --></head>
+<body>
+<script src="http://www.human.or.kr/js/cycle2/jquery.cycle2.js"></script>
+<script type="text/javascript">
+/* Plugin for Cycle2; Copyright (c) 2012 M. Alsup; v20141007 */ !function(a){"use strict";a.fn.cycle.transitions.scrollVert={before:function(a,b,c,d){a.API.stackSlides(a,b,c,d);var e=a.container.css("overflow","hidden").height();a.cssBefore={top:d?-e:e,left:0,opacity:1,display:"block",visibility:"visible"},a.animIn={top:0},a.animOut={top:d?e:-e}}}}(jQuery);
+</script>
+
+<!-- ä–=ı’ (íırı -->
+<div class="top_up_intro_wrap">
+	<div class="top_intro"><!--<img src="http://www.human.or.kr/theme/basic/img/human/top_intro.jpg">-->4áe›ı½ ışşxóıArÌı</div>
+</div>
+<div class="top_up_section">
+	<div class="top_up_container">
+		<a href="javascript:void(0);" class="top_up_a" id="cycle_prev"><img src="http://www.human.or.kr/theme/basic/img/human/top_arrow_left.png" class="top_up_arrow"></a>
+		<div id="top_notice_container" class="cycle-slideshow" data-cycle-fx="scrollVert" data-cycle-timeout="3000" data-cycle-slides="> div" data-cycle-prev="#cycle_prev" data-cycle-next="#cycle_next">
+						<div class="top_up_notice_box" style="width:900px;height:40px;line-height:40px;text-align:center;background-color:#24439b;">
+				<a href="http://www.human.or.kr/bbs/board.php?bo_table=course&wr_id=19">
+					<span class="color_mint">[ã–ô/Aı]]</span> 
+					JAVArÕò ıRŞıımd­ışıª ›•ûı ııf(ñ &nbsp;
+					<span class="color_yellow">2020ı 4ıa ›“ï</span> &nbsp;
+									</a>
+			</div>
+						<div class="top_up_notice_box" style="width:900px;height:40px;line-height:40px;text-align:center;background-color:#24439b;">
+				<a href="http://www.human.or.kr/bbs/board.php?bo_table=course&wr_id=22">
+					<span class="color_mint">[ã–ô/Aı]]</span> 
+					n…2ı ıc rÕòıı ıÛı,ıFı ı+UI ışşxı ııf(ñ &nbsp;
+					<span class="color_yellow">2020ı 03ıa ›“ï</span> &nbsp;
+									</a>
+			</div>
+						<div class="top_up_notice_box" style="width:900px;height:40px;line-height:40px;text-align:center;background-color:#24439b;">
+				<a href="http://www.human.or.kr/bbs/board.php?bo_table=course&wr_id=21">
+					<span class="color_mint">[ã–ô/Aı]]</span> 
+					ıªÍJÃrÌ°ı¢ıœ ıRŞıımıRıı$(ı’ıRıı$&ı’ıAÉ¾ı) (ñ &nbsp;
+					<span class="color_yellow">2020ı 3ıa ›“ï</span> &nbsp;
+									</a>
+			</div>
+						<div class="top_up_notice_box" style="width:900px;height:40px;line-height:40px;text-align:center;background-color:#24439b;">
+				<a href="http://www.human.or.kr/bbs/board.php?bo_table=course&wr_id=20">
+					<span class="color_mint">[ã–ô/Aı]]</span> 
+					JAVA(ıÛı),Python(ıFı ı+)rÕòıı AIı¢ıœ ıóıœıüı=ıÃı~ı1 ›•ûı ııf(ñ &nbsp;
+					<span class="color_yellow">2020ı 02ıa ›“ï</span> &nbsp;
+									</a>
+			</div>
+						<div class="top_up_notice_box" style="width:900px;height:40px;line-height:40px;text-align:center;background-color:#24439b;">
+				<a href="http://www.human.or.kr/bbs/board.php?bo_table=course&wr_id=15">
+					<span class="color_mint">[ã–ô/Aı]]</span> 
+					ıÛı(JAVA)rÕò ıªÍJÃı’&„åı ›•ûı (ñ &nbsp;
+					<span class="color_yellow">2019 12ıa ›“ï</span> &nbsp;
+									</a>
+			</div>
+						<div class="top_up_notice_box" style="width:900px;height:40px;line-height:40px;text-align:center;background-color:#24439b;">
+				<a href="http://www.human.or.kr/bbs/board.php?bo_table=course&wr_id=18">
+					<span class="color_mint">[ıÔı]ô/Aı]]</span> 
+					JAVArÕò ıRŞıımd­ışıª ›•ûı ııf(ñ &nbsp;
+					<span class="color_yellow">2020ı 2ıa ›“ï</span> &nbsp;
+									</a>
+			</div>
+					</div>
+		<a href="javascript:void(0);" class="top_up_a" id="cycle_next"><img src="http://www.human.or.kr/theme/basic/img/human/top_arrow_right.png" class="top_up_arrow"></a>
+	</div>
+</div>
+
+<!-- ıXı½ -->
+
+<!-- ıXı½ıı ı1 ı†ı	 { -->
+<div id="hd_pop">
+    <h2>ıXı½ıı ı1 ı#1ı</h2>
+
+<span class="sound_only">ıXı½ıı ı1 ı#1ñ  ı¾ı¿ırı.</span></div>
+
+<script>
+$(function() {
+    $(".hd_pops_reject").click(function() {
+        var id = $(this).attr('class').split(' ');
+        var ck_name = id[1];
+        var exp_time = parseInt(id[2]);
+        $("#"+id[1]).css("display", "none");
+        set_cookie(ck_name, 1, exp_time, g5_cookie_domain);
+    });
+    $('.hd_pops_close').click(function() {
+        var idb = $(this).attr('class').split(' ');
+        $('#'+idb[1]).css('display','none');
+    });
+    $("#hd").css("z-index", 1000);
+});
+</script>
+<!-- } ıXı½ıı ı1 ıy -->
+<!-- ı=ı’ á“,ıı Î¾ñ -->
+<div class="top_section" id="site_top_section">
+	<div class="top_container">
+		<a href="http://www.human.or.kr/"><img src="http://www.human.or.kr/theme/basic/img/human/top_logo.png"></a>
+		<div id="top_menu_wrap">
+			<ul class="top_menu">
+				<li><a href="http://www.human.or.kr/theme/basic/pub/sub01_campus_seoul.php">ô/Aıqıcıı¡</a></li>
+				<li><a href="http://www.human.or.kr/theme/basic/pub/sub02_lecture.php">Ïe[(ñ/ı=ı</a></li>
+				<li><a href="http://www.human.or.kr/bbs/board.php?bo_table=lecture&sca=ôı›ırÌÙ%20ışıBı›ı½ŞøL">ô/A(ñıı¡</a></li>
+				<li><a href="http://www.human.or.kr/bbs/board.php?bo_table=notice">{ı{rıš/â©œıBı</a></li>
+				<!--<li><a href="http://www.human.or.kr/bbs/board.php?bo_table=sw">ığôIò Ûı ıŞı1ı</a></li>-->
+				<li><a href="http://www.human.or.kr/theme/basic/pub/sub06_hello.php">ô/Aıqıcıü›ı</a></li>
+			</ul>
+		</div>
+		<div class="top_sns">
+			<a href="http://blog.naver.com/echuman" target="_blank"><img src="http://www.human.or.kr/theme/basic/img/human/top_blog.png"></a>
+			<!--<a href="https://www.facebook.com/echuman" target="_blank"><img src="http://www.human.or.kr/theme/basic/img/human/top_facebook.png"></a>-->
+			<a href="https://pf.kakao.com/_IxjFxku" target="_blank"><img src="http://www.human.or.kr/theme/basic/img/human/top_kakao.png"></a>
+		</div>
+	</div>
+	<div id="top_submenu_area">
+		<div class="top_submenu_container">
+			<div class="top_submenu">
+				<a href="http://www.human.or.kr/theme/basic/pub/sub01_campus_seoul.php">ıLı±ô/Aıqıc</a>
+				<a href="http://www.human.or.kr/theme/basic/pub/sub01_campus_suwon.php">ıÔı]ô/Aıqıc</a>
+				<a href="http://www.human.or.kr/theme/basic/pub/sub01_campus_cheonan.php">ã–ô/Aıqıc</a>
+			</div>
+			<div class="top_submenu" style="margin-left:10px;">
+				<a href="http://www.human.or.kr/theme/basic/pub/sub02_lecture.php">Ïe[(ñ</a>
+				<a href="http://www.human.or.kr/bbs/board.php?bo_table=counsel">ıïı0ı=ı</a>
+				<a href="http://www.human.or.kr/theme/basic/pub/sub02_apply.php">ı©ı*ı$ı=ı</a>
+				<a href="http://www.human.or.kr/bbs/faq.php?fm_id=1">ıŒó/ı—ŞH&</a>
+			</div>
+			<div class="top_submenu" style="width:130px;margin-left:0px;">
+								<a href="http://www.human.or.kr/bbs/board.php?bo_table=lecture&sca=ôı›ırÌÙ ışıBı›ı½ŞøL">ôı›ırÌÙ ışıBı›ı½ŞøL</a>
+								<a href="http://www.human.or.kr/bbs/board.php?bo_table=lecture&sca=ı¡ı*Û×ıû v">ı¡ı*Û×ıû v</a>
+								<a href="http://www.human.or.kr/bbs/board.php?bo_table=lecture&sca=ı1Şøôın©ıı](ñ">ı1Şøôın©ıı](ñ</a>
+								<a href="http://www.human.or.kr/bbs/board.php?bo_table=lecture&sca=(ı3 ıı=(ñ">(ı3 ıı=(ñ</a>
+							</div>
+			<div class="top_submenu" style="width:130px;margin-left:0px;padding-right:16px;">
+				<a href="http://www.human.or.kr/bbs/board.php?bo_table=notice">(íıı—ıF</a>
+				<a href="http://www.human.or.kr/bbs/board.php?bo_table=review">ıÔ›¥Qrı</a>
+				<a href="http://www.human.or.kr/bbs/board.php?bo_table=student">Äıı—ıF</a>
+				<a href="http://www.human.or.kr/bbs/board.php?bo_table=recruit">â©œıBı</a>
+			</div>
+			<!--
+			<div class="top_submenu" style="margin-left:45px;">
+				<a href="http://www.human.or.kr/bbs/board.php?bo_table=sw">S/W›•û ığôIò</a>
+				<a href="http://www.human.or.kr/bbs/board.php?bo_table=security">ıB «ı ığôIò</a>
+				<a href="http://www.human.or.kr/bbs/board.php?bo_table=sns">SNSÍIıı? ıŞı1ı</a>
+				<a href="http://www.human.or.kr/bbs/board.php?bo_table=circle">ràı ıŞı1ı</a>
+			</div>
+			-->
+			<div class="top_submenu" style="width:110px;margin-left:0px;">
+				<a href="http://www.human.or.kr/theme/basic/pub/sub06_hello.php">ı$ı—Íı</a>
+				<a href="http://www.human.or.kr/theme/basic/pub/sub06_objective.php">ô/AÏz´</a>
+				<a href="http://www.human.or.kr/theme/basic/pub/sub06_history.php">ığız</a>
+				<!--
+				<a href="http://www.human.or.kr/theme/basic/pub/sub06_facility.php">ı†ıUıı¡</a>
+				-->
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- ı¦åı quick menu -->
+<div id="right_quick_menu" >
+	<div class="qm_toggler_pos">
+		<div class="qm_toggler_wrap"><img src="http://www.human.or.kr/theme/basic/img/human/toggler.jpg" id="qm_toggler"></div>
+	</div>
+	<div class="qm_title"></div>
+	<div class="qm_campus">
+		<a href="http://www.human.or.kr/theme/basic/pub/sub01_campus_seoul.php">ıLı±ô/Aıqıc</a>
+		<a href="http://www.human.or.kr/theme/basic/pub/sub01_campus_suwon.php">ıÔı]ô/Aıqıc</a>
+		<a href="http://www.human.or.kr/theme/basic/pub/sub01_campus_cheonan.php">ã–ô/Aıqıc</a>
+	</div>
+	<div><a href="http://www.human.or.kr/theme/basic/pub/sub01_campus_seoul.php"><img src="http://www.human.or.kr/theme/basic/img/human/qm_location.png"></a></div>
+	<div><a href="http://www.human.or.kr/theme/basic/pub/sub02_apply.php"><img src="http://www.human.or.kr/theme/basic/img/human/qm_apply.png"></a></div>
+	<div><a href="http://www.human.or.kr/bbs/board.php?bo_table=counsel"><img src="http://www.human.or.kr/theme/basic/img/human/qm_counsel.png"></a></div>
+	<!--
+	<div><a href="http://www.human.or.kr/bbs/board.php?bo_table=review"><img src="http://www.human.or.kr/theme/basic/img/human/qm_review.png"></a></div>
+	<div><a href="http://www.human.or.kr/bbs/board.php?bo_table=student"><img src="http://www.human.or.kr/theme/basic/img/human/qm_student.png"></a></div>
+	-->
+</div>
+<script type="text/javascript" src="http://www.human.or.kr/js/cycle2/jquery.cycle2.carousel.min.js"></script>
+<style type="text/css">
+.cycle-prev { left: 0;  background: url(/theme/basic/img/human/left.png) 50% 50% no-repeat;}
+.cycle-next { right: 0; background: url(/theme/basic/img/human/right.png) 50% 50% no-repeat;}
+</style>
+
+<!-- Î¿$ ı ˜„ı ı³ı*ı ıv -->
+<div id="main_img_slide_section">
+	<div class="cycle-slideshow" data-cycle-fx="scrollHorz" data-cycle-pause-on-hover="true" data-cycle-slides="> div">
+		<nav class="cycle-pager"></nav>
+		<nav class="cycle-prev"></nav>
+		<nav class="cycle-next"></nav>
+				<div class="slide_unit" style="background:url(http://www.human.or.kr/data/file/admin/31246603_cLVPasgT_3d970b727b27047c7c510a88d274fa6f6a363f36.jpg) center center no-repeat;background-size:cover;"><a href="#"></a></div>
+				<div class="slide_unit" style="background:url(http://www.human.or.kr/data/file/admin/31208957_Mpj8ietg_82c9663d0aa073fbc4d80f933aff8b409510a057.jpg) center center no-repeat;background-size:cover;"><a href="http://www.human.or.kr/bbs/board.php?bo_table=lecture&sca=ôı›ırÌÙ%20ışıBı›ı½ŞøL&wr_id=4"></a></div>
+				<div class="slide_unit" style="background:url(http://www.human.or.kr/data/file/admin/31208957_Tun5Cfw8_adc027407d1319cde2d8050523f3f9ad8e38744d.jpg) center center no-repeat;background-size:cover;"><a href="http://www.human.or.kr/bbs/board.php?bo_table=lecture&sca=ôı›ırÌÙ%20ışıBı›ı½ŞøL&wr_id=6"></a></div>
+				<div class="slide_unit" style="background:url(http://www.human.or.kr/data/file/admin/31208957_1lYz3dM4_116e9a0b9e61bdd1367ce541032b65f96868b4f5.jpg) center center no-repeat;background-size:cover;"><a href="http://www.human.or.kr/bbs/board.php?bo_table=lecture&sca=ôı›ırÌÙ%20ışıBı›ı½ŞøL&wr_id=3"></a></div>
+				<div class="slide_unit" style="background:url(http://www.human.or.kr/data/file/admin/31208957_9O67XluU_164221aea8c8c49609164ef2d667a591c33c9605.jpg) center center no-repeat;background-size:cover;"><a href="http://www.human.or.kr/bbs/board.php?bo_table=lecture&sca=ôı›ırÌÙ%20ışıBı›ı½ŞøL&wr_id=2"></a></div>
+				<div class="slide_unit" style="background:url(http://www.human.or.kr/data/file/admin/31208957_xWofm0Kb_4e4bada7f3f5c94de3a985e8d37772bbdd57d8d3.jpg) center center no-repeat;background-size:cover;"><a href="http://www.human.or.kr/bbs/board.php?bo_table=lecture&sca=ôı›ırÌÙ%20ışıBı›ı½ŞøL&wr_id=7"></a></div>
+				<div class="slide_unit" style="background:url(http://www.human.or.kr/data/file/admin/31208957_v9he8J3R_fcbd390daead46f3fd62dba2dd033bdb12cfc9a6.jpg) center center no-repeat;background-size:cover;"><a href="http://www.human.or.kr/bbs/board.php?bo_table=lecture&sca=ôı›ırÌÙ%20ışıBı›ı½ŞøL&wr_id=8"></a></div>
+				<div class="slide_unit" style="background:url(http://www.human.or.kr/data/file/admin/31208957_vE3jd9GA_5916744485ccedb05737765b7c523a0624bec59c.jpg) center center no-repeat;background-size:cover;"><a href="http://www.human.or.kr/bbs/board.php?bo_table=lecture&sca=ôı›ırÌÙ%20ışıBı›ı½ŞøL&wr_id=9"></a></div>
+				<div class="slide_unit" style="background:url(http://www.human.or.kr/data/file/admin/31208957_VGLfR6xc_8adce87e653e5230627ad2b8625c21a09d0b77db.jpg) center center no-repeat;background-size:cover;"><a href="http://www.human.or.kr/bbs/board.php?bo_table=lecture&sca=ôı›ırÌÙ%20ışıBı›ı½ŞøL&wr_id=1"></a></div>
+			</div>
+</div>
+
+<!-- Ïe[(ñ ıı¡ -->
+<div id="main_lecture_section" class="subpage_content_section">
+	<div class="subpage_content_container">
+		<div class="main_lecture_title_wrap">
+			<div class="main_lecture_title">Ïe[(ñ ıı¡</div>
+			<div class="main_lecture_title_text">ıURèóıAıqıcıÉıL ı}ı1 Ïe[å$ (ñıã ıı¡ıPıv1ˆrı.</div>
+		</div>
+
+		<div class="main_course_cate">
+			<a class="main_course_link active" href="javascript:main_course('','0');">ışãı</a>
+			<a class="main_course_link" href="javascript:main_course('seoul','1');">ıLı±ô/Aıqıc</a>
+			<a class="main_course_link" href="javascript:main_course('suwon','2');">ıÔı]ô/Aıqıc</a>
+			<a class="main_course_link" href="javascript:main_course('cheonan','3');">ã–ô/Aıqıc</a>
+		</div>
+
+		<div id="main_course_slide_container">
+		</div><!-- /main_course_slide_container -->
+	</div>
+</div>
+
+<!-- ÛÕ+ -->
+<div id="main_banner_section">
+	<div class="main_banner_container">
+		<a href="http://www.human.or.kr/bbs/board.php?bo_table=lecture&sca=%EA%B5%AD%EA%B0%80%EA%B8%B0%EA%B0%84%20%EC%A0%84%EB%9E%B5%EC%82%B0%EC%97%85%EC%A7%81%EC%A2%85"><img src="http://www.human.or.kr/theme/basic/img/human/main_ban_01.jpg"></a>
+		<a href="http://www.human.or.kr/theme/basic/pub/sub02_apply.php"><img src="http://www.human.or.kr/theme/basic/img/human/main_ban_02.jpg"></a>
+		<a href="http://www.human.or.kr/bbs/board.php?bo_table=counsel"><img src="http://www.human.or.kr/theme/basic/img/human/main_ban_03.jpg"></a>
+		<a href="https://pf.kakao.com/_IxjFxku" target="_blank"><img src="http://www.human.or.kr/theme/basic/img/human/main_ban_04.jpg"></a>
+		<a href="http://www.human.or.kr/theme/basic/pub/sub01_campus_seoul.php"><img src="http://www.human.or.kr/theme/basic/img/human/main_ban_05.jpg"></a>
+	</div>
+</div>
+
+<!-- ıQrı -->
+<div id="main_review_section">
+	<div class="main_review_container">
+			</div>
+</div>
+
+<!-- ı/ı’ ıBı -->
+<div id="main_bottom_section">
+	<div class="main_bottom_container">
+		<div class="main_bottom_tel">
+			<div class="main_bottom_tel_title">(‰üıqıc</div>
+			<div class="main_bottom_tel_num">1566-9564 <span>(ışôıııı´0JÇ)</span></div>
+			<div class="main_bottom_time"><span>ıÊ ı*</span> : ı¤ış9ı†~ı¤ıQ10ı† &nbsp;<span>ıı‚ı*</span> : ı¤ış9ı†~ı¤ıQ6ı†<br />(ïUı* Ûı ŒğZıı ô/Aı  ı¾ı¿ırı.</div>
+		</div>
+		<div class="main_bottom_news">
+			<div class="main_bottom_news_title">
+				<div>ıURèóıAıqıc (íı</div>
+				<a href="http://www.human.or.kr/bbs/board.php?bo_table=notice">+</a>
+			</div>
+			<ul class="main_bottom_news_list">
+								<li>
+					<a href="http://www.human.or.kr/bbs/board.php?bo_table=notice&wr_id=15"> 2020ııÄ ıURèóıAıqıc ı¦ıÔrÌııQı</a>
+					<span>19.10.30</span>
+				</li>
+								<li>
+					<a href="http://www.human.or.kr/bbs/board.php?bo_table=notice&wr_id=14"> ıLı±/ıÔı]/ã–ô/Aıqıc ô/Aıûıóıã ıı3 Îıı</a>
+					<span>19.03.18</span>
+				</li>
+								<li>
+					<a href="http://www.human.or.kr/bbs/board.php?bo_table=notice&wr_id=13"> ıURèóıAıqıc\ı ı¢ ıQını/ıìı^ ı/ı—›ı?</a>
+					<span>18.12.25</span>
+				</li>
+								<li>
+					<a href="http://www.human.or.kr/bbs/board.php?bo_table=notice&wr_id=12"> 2018 Şø½ı«ı0›•ûıUı4 ı¦ıÔô/ArÌı ıUÏ‡v</a>
+					<span>18.12.22</span>
+				</li>
+							</ul>
+		</div>
+		<div class="main_bottom_sns">
+			<div class="main_bottom_sns_title">(í‡ SNS</div>
+			<div class="main_bottom_sns_list">
+				<a href="http://blog.naver.com/echuman" target="_blank"><img src="http://www.human.or.kr/theme/basic/img/human/icon_blog.png"><div>É¾9ı</div></a>
+				<a href="https://pf.kakao.com/_IxjFxku" target="_blank"><img src="http://www.human.or.kr/theme/basic/img/human/icon_kakao.png"><div>ıFı-ıªû“„</div></a>
+				<a href="https://www.facebook.com/echuman" target="_blank"><img src="http://www.human.or.kr/theme/basic/img/human/icon_facebook.png"><div>ıùı ıªzı</div></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+function main_course(campus,idx) {
+	$(".main_course_link.active").removeClass("active");
+	$(".main_course_link:eq("+idx+")").addClass("active");
+	$("#main_course_slide_container").load("http://www.human.or.kr/theme/basic/pub/ajax.main_course.php?campus="+campus,function(){
+		$('.main_lecture_container').cycle();
+	});
+}
+
+$(document).ready(function(){
+	main_course('','0');
+});
+</script>
+
+
+<div class="tail_section">
+	<div class="yn_flex tail_container">
+		<!--<a href="" class="tail_left"><img src="http://www.human.or.kr/theme/basic/img/human/bottom_logo.png"></a>-->
+		<div class="tail_right">
+			<div class="tail_quick">
+								<a href="http://www.human.or.kr/bbs/login.php">ı0ıná“ı$</a>
+				<span>&#149</span>
+				<a href="http://www.human.or.kr/bbs/register.php">ıvı]›ııï</a>
+				<span>&#149</span>
+								<a href="http://www.human.or.kr/bbs/content.php?co_id=privacy">›–$BÇıâı</a>
+				<span>&#149</span>
+				<a href="http://www.human.or.kr/bbs/content.php?co_id=provision">ı ıœı_?ı</a>
+				<span>&#149</span>
+				<a href="http://www.human.or.kr/adm/">?ı1J</a>
+			</div>
+			<div class="tail_company">
+				[ıLı±ô/Aıqıc] ıLı±ıÅB©† ızı‘ı÷ôı ızå8rı 6, 6åı T.02-3667-3688 &nbsp;&nbsp;
+				[ıÔı]ô/Aıqıc] Ã„°ıÄ ıÔı]ı† ıOı–ôı åıııáı 100, 3åı T.031-239-5855 &nbsp;&nbsp;<br />
+				[ã–ô/Aıqıc] px“ ã–ı† ıLzô„ ıfı(í]5áı 35, 6åı T.041-561-1122<br />
+				ııı´ı: Û¤cBı &nbsp;<span>|</span>&nbsp;
+				ııı´ışı•0JÇ: 1566-9564 &nbsp;<span>|</span>&nbsp; ıeıª: 041-561-1126 &nbsp;<span>|</span>&nbsp; ııı´E-mail: humanec@naver.com &nbsp;<span>|</span>&nbsp; ›–$ıB «ıÇâ†ëı: áı ıÔ(humanec@naver.com)
+			</div>
+			<div class="tail_copyright">
+				Copyright ıl 2011 ıURèóıAıqıc All Rights Reserved.
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+<!-- } ı/ı’ ıy -->
+
+<script>
+$(function() {
+    // ıÿıÃ 1J—ı İı Qıóı]Îı ıış
+    font_resize("container", get_cookie("ck_font_resize_rmv_class"), get_cookie("ck_font_resize_add_class"));
+
+	//ıLÉ®ıñ
+	/*
+	$(".top_section").mouseenter(function(){
+		$("#top_submenu_area").animate({ top : "91px" },300);
+	}).mouseleave(function(){
+		$("#top_submenu_area").animate({ top : "-100px" },300);
+	});
+	*/
+
+	//
+	$("#site_top_section").mouseenter(function(){
+		$("#top_submenu_area").animate({ top : "91px" },300);
+	});
+	$("#site_top_section").mouseleave(function(){
+		$("#top_submenu_area").animate({ top : "-100px" },300);
+	});
+
+	//quick_menu toggle
+	$("#qm_toggler").on("click",function(){
+		if ( $("#right_quick_menu").css('right') == '0px')	//ıôı.ıóı]Îı
+		{
+			$("#right_quick_menu").animate({right:'-133px'},200,function(){
+				$("#qm_toggler").attr("src","http://www.human.or.kr/theme/basic/img/human/toggler_left.jpg");
+				//QıÉ ı=ım ııı#
+				set_cookie('quickmenu','close',48);
+			});
+		} else {	//ı•ıııóı]Îı
+			$("#right_quick_menu").animate({right:'0px'},200,function(){
+				$("#qm_toggler").attr("src","http://www.human.or.kr/theme/basic/img/human/toggler.jpg");
+				//QıÉ ı=ım ııı#
+				set_cookie('quickmenu','open',48);
+			});
+		}
+	});
+});
+</script>
+
+
+
+<!-- ie6,7ıÉıL ı—ı ıvIÌı Ã¯†ıK Ïx	ıÉıL ıı ı—ı ıvI×É ›ıı.Şıı— ı}ı= ıÔı -->
+<!--[if lte IE 7]>
+<script>
+$(function() {
+    var $sv_use = $(".sv_use");
+    var count = $sv_use.length;
+
+    $sv_use.each(function() {
+        $(this).css("z-index", count);
+        $(this).css("position", "relative");
+        count = count - 1;
+    });
+});
+</script>
+<![endif]-->
+
+</body>
+</html>
